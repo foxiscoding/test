@@ -1,1 +1,2 @@
 # friend-finderz
+fix: docs
